@@ -1,6 +1,4 @@
-# TodoApp w ISARdb
-
-# 📱 Your Project Name
+# 📱 TodoApp w ISARdb
 
 A Flutter-based mobile application built with clean architecture principles, using **BLoC** for state management and **ISAR** as the local NoSQL database solution.
 
